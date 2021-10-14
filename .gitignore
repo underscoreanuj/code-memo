@@ -1,0 +1,14 @@
+# ignore Java class files except for the HelloWorld.class sample
+*.class
+!HelloWorld.class
+
+# IDE files
+# intelliJ
+.idea
+*.iml
+
+# VScode
+.vscode
+
+# Mac OS Files
+.DS_Store
