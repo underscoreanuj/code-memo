@@ -14,6 +14,7 @@
 .DS_Store
 
 # CPP Files
+# https://github.com/github/gitignore/blob/master/C%2B%2B.gitignore
 # Prerequisites
 *.d
 
@@ -49,6 +50,7 @@
 *.app
 
 # golang files
+# https://github.com/github/gitignore/blob/master/Go.gitignore
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -63,6 +65,7 @@
 *.out
 
 # Javascript files
+# https://github.com/github/gitignore/blob/master/Node.gitignore
 # Logs
 logs
 *.log
