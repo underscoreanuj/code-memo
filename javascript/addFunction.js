@@ -1,5 +1,6 @@
-const add =(a,b) =>{
+const add =(...arr) =>{
     return a+b 
 }
 
-console.log(add(2,3))
+const arr = [1,2,3,4,5]
+console.log(add(arr))
